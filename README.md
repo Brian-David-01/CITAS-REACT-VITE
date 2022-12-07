@@ -17,4 +17,4 @@
 </a>
 </p>
 
-![Fondo-Portada-Proyecto](https://github.com/Brian-David-01/CITAS-REACT-VITE/blob/main/Imagen%20de%20proyecto.png)
+![Fondo-Portada-Proyecto](https://github.com/Brian-David-01/CITAS-REACT-VITE/blob/main/PortadaProyecto.png)
