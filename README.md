@@ -9,4 +9,13 @@
 </p>
 <hr />
 
+<p align="center">
+<img src="https://i.ibb.co/PgtBwpf/html.png" />
+<img src="https://i.ibb.co/nBcdY7m/react.png" />
+<img src="https://i.ibb.co/RDsffnc/node.png" />
+<img src="https://i.ibb.co/89045d9/tailwind.png" />
+</a>
+</p>
+
 ![Fondo-Portada-Proyecto](https://github.com/Brian-David-01/CITAS-REACT-VITE/blob/main/Imagen%20de%20proyecto.png)
+
