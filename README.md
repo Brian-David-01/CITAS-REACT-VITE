@@ -10,7 +10,7 @@
 <hr />
 
 <p align="center">
-<img src="https://i.ibb.co/smLr7gT/html-icon.png" />
+<img src="https://i.ibb.co/17y414Z/html5-icon.png" />
 <img src="https://i.ibb.co/nBcdY7m/react.png" />
 <img src="https://i.ibb.co/RDsffnc/node.png" />
 <img src="https://i.ibb.co/89045d9/tailwind.png" />
