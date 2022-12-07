@@ -11,11 +11,10 @@
 
 <p align="center">
 <img src="https://i.ibb.co/17y414Z/html5-icon.png" />
-<img src="https://i.ibb.co/nBcdY7m/react.png" />
-<img src="https://i.ibb.co/RDsffnc/node.png" />
-<img src="https://i.ibb.co/89045d9/tailwind.png" />
+<img src="https://i.ibb.co/d4jCG5x/react-icon.png" />
+<img src="https://i.ibb.co/sFS8sw4/nodejs-icon.png" />
+<img src="https://i.ibb.co/x6bfMr7/tailwind-icon.png" />
 </a>
 </p>
 
 ![Fondo-Portada-Proyecto](https://github.com/Brian-David-01/CITAS-REACT-VITE/blob/main/Imagen%20de%20proyecto.png)
-
