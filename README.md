@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.ibb.co/9psC0V0/Portada-Citas-React.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Creación de aplicación para el registro de mascotas a través de un formulario aplicando los métodos de agregar, actualizar y eliminar con React js y Vite 🐶</div>  
