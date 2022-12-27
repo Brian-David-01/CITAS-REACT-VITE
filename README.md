@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/9psC0V0/Portada-Citas-React.gif" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/0nvYHpj/Banner-para-Linkedin-Profesional-Negro.png" align="center" style="width: 100%" />
 </div>  
   
 
