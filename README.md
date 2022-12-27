@@ -9,7 +9,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Recursos utilizados
 <table align="center"><tr><td valign="top" width="50%">
 
 
@@ -39,7 +39,7 @@
 <br/>  
 
 
-## Connect with me  
+## Capturas  
 <div align="center">
 <img src="https://i.ibb.co/8dm35R2/Citas-React-Principal.png" align="center" height="" width="100%" />
 </div>  
