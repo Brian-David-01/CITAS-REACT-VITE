@@ -40,11 +40,8 @@
 
 
 ## Connect with me  
-<img src="https://i.ibb.co/8dm35R2/Citas-React-Principal.png" align="left" height="" width="49%" />  
-  
-
-<div align="right">
-<img src="https://i.ibb.co/kQ8q40x/Citas-React-Secundario.png" align="right" height="" width="49%" />
+<div align="center">
+<img src="https://i.ibb.co/8dm35R2/Citas-React-Principal.png" align="center" height="" width="100%" />
 </div>  
 
 <br />
