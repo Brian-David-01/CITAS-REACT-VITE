@@ -38,11 +38,14 @@
 
 <br/>  
 
-
+<div align="center">
 ## Demo
 
 Ver demostración:   
 https://veterinaria-reactjs-git.netlify.app/
+</div>
+
+<br />
 
 
 
