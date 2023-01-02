@@ -20,7 +20,7 @@ const Paciente = ({paciente, setPaciente, eliminarPaciente}) => {
           <span className='font-normal normal-case'>{propietario}</span>
         </p>
 
-        <p className='font-bold mb-3 text-gray-700 uppercase'>Email: {''}
+        <p className='font-bold mb-3 text-gray-700 uppercase'>Correo electrónico: {''}
           <span className='font-normal normal-case'>{email}</span>
         </p>
 
