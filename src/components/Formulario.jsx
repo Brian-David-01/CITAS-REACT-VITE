@@ -93,7 +93,7 @@ const Formulario = ({ pacientes, setPacientes, paciente, setPaciente }) => {
             <input 
               id="mascota" 
               type="text" 
-              placeholder="Nombre de la Mascota" 
+              placeholder="Nombre" 
               className="border-2 w-full p-2 mt-2 placeholder-gray-400 rounded-md"
               value={nombre}
               onChange={ (e) => setNombre(e.target.value)} />
