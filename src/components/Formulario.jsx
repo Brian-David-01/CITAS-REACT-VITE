@@ -88,7 +88,7 @@ const Formulario = ({ pacientes, setPacientes, paciente, setPaciente }) => {
           { error && (<Error><p>Todos los campos son obligatorios</p></Error>) }
           <div className="mb-5">
             <label htmlFor="mascota" className="block text-gray-700 uppercase font-bold">
-              Nombre Mascota
+              Nombre de Mascota
             </label>
             <input 
               id="mascota" 
